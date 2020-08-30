@@ -1,1 +1,2 @@
 Hello Chubby!
+Hello Smile!
